@@ -11,7 +11,7 @@
 .container{
     width:100%;
     min-height: 100vh;
-    background: linear-gradient(135deg, #153677, #4e085f);
+    background: linear-gradient(135deg, #f5f585, #cd70e5);
     padding: 10px;
 }
 
@@ -60,7 +60,7 @@ button{
     border:none;
     outline: none;
     padding: 16px 50px;
-    background: #ff5945;
+    background: #51750d;
     color:#fff;
     font-size:16px;
     cursor: pointer;
